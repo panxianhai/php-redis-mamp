@@ -5,4 +5,4 @@
 3. Restart MAMP.
 
 ### Change Log:
-* 0.1 - Initial Release
+* 0.1 - Initial Release (redis extension version 2.2.5)
