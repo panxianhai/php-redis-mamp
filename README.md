@@ -16,7 +16,7 @@
 6. Restart MAMP.
 
 ### For 4.x
-
+0. You may need install `autoconf` via `brew install autoconf`.
 1. `cd /Applications/MAMP/bin/php/php*.*.*/bin`, execute `./pecl install redis` for default version or `./pecl install redis-3.1.2` for special version.
 2. Add extension="redis.so" to the end of php.ini (Open MAMP Pro dashboard， LANGUAGE-PHP，click 'Manually enable other extensions'), for non-pro users edit /Applications/MAMP/bin/php/php7.x.x/conf/php.ini (Channge 7.x.x to your PHP version)
 3. Restart MAMP.
